@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "greeting",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "welcome",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Contracts/Sessions/Lesson_1.sol": "greetings"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Contracts/Sessions/Lesson_1.sol": {
+			"keccak256": "0x393923463352ccd989a0a2e184d31c96531657f5347776aeab9e3dd01bf99b37",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://a697ed810097bfe5aa429062f142e39a0eeb6cb3982388b2e1fc420ee3f64ab3",
+				"dweb:/ipfs/QmX4zTY8aVFSmSwkX2DxLC3ifoMYUv4TCYnXiB6BvwcDtv"
+			]
+		}
+	},
+	"version": 1
+}
