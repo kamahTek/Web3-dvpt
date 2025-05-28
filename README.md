@@ -1,2 +1,3 @@
 # Web3-dvpt
-Ethereum Virtual Machine (EVM)
+Ethereum Virtual Machine (EVM) - Solidity
+Solana - Rust
